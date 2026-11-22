@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.qnvsanaz.twa",
+        "sha256_cert_fingerprints": ["BF:2F:63:80:C8:F8:0C:32:8C:BF:12:64:E9:05:0F:AA:E5:30:26:00:EE:45:3D:0B:48:9F:27:68:94:DA:4B:E6"]
+      }
+    }]
